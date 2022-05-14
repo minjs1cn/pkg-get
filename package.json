@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "main": "./lib/index.cjs",
   "module": "./lib/index.mjs",
+  "keywords": [
+    "package.json",
+    "pkg"
+  ],
   "description": "pkg-get is a tool for get field in package.json.",
   "exports": {
     ".": {
@@ -16,7 +20,6 @@
     "type": "git",
     "url": "https://github.com/minjs1cn/pkg-get"
   },
-  "homepage": "https://minjs1cn.github.io/pkg-get",
   "files": [
     "lib"
   ],
